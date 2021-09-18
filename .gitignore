@@ -1,5 +1,9 @@
 # Folders
-/.vs
+.vs/
+bin/
+x64/
+Release/
+Debug/
 
 # Prerequisites
 *.d
